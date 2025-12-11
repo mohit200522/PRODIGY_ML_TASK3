@@ -1,1 +1,13 @@
 
+# 📝 **Task-03**
+
+Implement a **Support Vector Machine (SVM)** model to classify images of **cats and dogs** using the Kaggle *Dogs vs Cats* dataset.
+
+**Goal:** Build an image classification pipeline using HOG feature extraction and SVM to distinguish between cat and dog images.
+
+### **Dataset Link:**
+
+🔗 [https://www.kaggle.com/c/dogs-vs-cats/data](https://www.kaggle.com/c/dogs-vs-cats/data)
+
+
+
